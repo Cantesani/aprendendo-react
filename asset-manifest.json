@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aprendendo-react/static/css/main.e6c13ad2.css",
+    "main.js": "/aprendendo-react/static/js/main.26a240d2.js",
+    "index.html": "/aprendendo-react/index.html",
+    "main.e6c13ad2.css.map": "/aprendendo-react/static/css/main.e6c13ad2.css.map",
+    "main.26a240d2.js.map": "/aprendendo-react/static/js/main.26a240d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.26a240d2.js"
+  ]
+}
